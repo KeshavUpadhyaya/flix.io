@@ -125,7 +125,7 @@
   </div>
 </div>
 
-<h2 id="headingRec" style="left: 550px">Recomended movies and Shows</h2>
+<h2 id="headingRec" style="left: 550px">Recommended Movies and Shows</h2>
 <div class="recomendation" id="flix">
 
   <div class="card1" style="height: 550px;">
